@@ -1,5 +1,6 @@
 # eBay_Pokemon_Card_Automation
 A Python program to automate the listing of Pokemon cards to eBay. Utilizes the ebaysdk-python eBay API from timotheus, linked here: https://github.com/timotheus/ebaysdk-python
+Download this repository and place in the directory to use.
 
 Listing Pokemon cards to eBay is a repetitve, time consuming, and mindless task. The workflow for doing so is as follows:
 
