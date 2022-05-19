@@ -29,3 +29,5 @@ Using this program, the automated workflow is as follows:
 
 
 This use of this program to list hundreds of cards has the potential to save 10s of hours for the user.
+
+![Flowchart](https://github.com/turnerluke/eBay-pokemon-card-automation/blob/main/eBay%20Automation%20Flowchart.png)
